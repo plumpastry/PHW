@@ -1,2 +1,2 @@
 # PHW
-Plum's Embedded Devides
+Plum's Embedded Devices
