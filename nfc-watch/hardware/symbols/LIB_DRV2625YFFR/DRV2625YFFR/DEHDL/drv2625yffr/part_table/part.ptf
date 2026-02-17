@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'DRV2625YFFR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "DRV2625YFFR" (!) = "", "BGA9C40P3X3_147X133X62", "BGA", "595-DRV2625YFFR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV2625YFFR?qs=n%252BTO0c4TDSZ6D6FykI88sg%3D%3D", "Motor / Motion / Ignition Controllers & Drivers Advanced ERM & LRA Haptics Driver with Smart Loop and Embedded Effects Library 9-DSBGA -40 to 85", "https://componentsearchengine.com/Datasheets/1/DRV2625YFFR.pdf", "0.625 mm"
+END_PART
+
+END.

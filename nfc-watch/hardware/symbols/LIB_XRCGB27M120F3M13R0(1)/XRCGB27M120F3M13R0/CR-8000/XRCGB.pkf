@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "XRCGB"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "XRCGB")
+        (spec "default")
+    )
+)

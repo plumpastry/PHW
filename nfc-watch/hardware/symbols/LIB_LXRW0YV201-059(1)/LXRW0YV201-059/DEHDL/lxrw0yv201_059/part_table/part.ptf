@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LXRW0YV201_059'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "LXRW0YV201-059" (!) = "", "LXRW0YV201059", "Other", "81-LXRW0YV201-059", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LXRW0YV201-059?qs=7MVldsJ5UaykDEbFb2%2F3TA%3D%3D", "Trimmer / Variable Capacitors 0.6x0.6mm 200pF@0V", "", "0.31 mm"
+END_PART
+
+END.

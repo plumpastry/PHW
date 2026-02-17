@@ -1,0 +1,134 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TPS61046YFFR"
+   (description "28-V Output Voltage Boost Converter in WCSP Package")
+   (family "ANA")
+   (package "BGA6C40P2X3_88X123X62")
+   (attribute "Datasheet Link" "http://www.ti.com/lit/gpn/tps61046")
+   (attribute "Geometry.Height" "0.625mm")
+   (attribute "Mouser Part Number" "595-TPS61046YFFR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61046YFFR?qs=MiqG6Kq1qKNwq3TLqYBDaw%3D%3D")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TPS61046YFFR")
+   (gate
+    (symbol "TPS61046YFFR")
+    (pin "VIN" A1 PP)
+    (pin "GND" A2 PP)
+    (pin "FB" B1 IP)
+    (pin "SW" B2 IO)
+    (pin "EN" C1 IP)
+    (pin "VOUT" C2 PP)
+   )
+  )
+  (symbol "TPS61046YFFR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 900 100) (pt 900 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1100 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "BGA6C40P2X3_88X123X62"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.457 1.628)
+      (pt 1.457 1.628)
+      (pt 1.457 -1.628)
+      (pt -1.457 -1.628)
+      (pt -1.457 1.628))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -0.442 0.613)
+      (pt 0.442 0.613)
+      (pt 0.442 -0.613)
+      (pt -0.442 -0.613)
+      (pt -0.442 0.613))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.442 0.299)
+      (pt -0.128 0.613))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -0.2 0.85)
+      (pt 0.65 0.85)
+      (pt 0.65 -0.85)
+      (pt -0.65 -0.85)
+      (pt -0.65 0.4)
+      (pt -0.2 0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (circle
+      (pt -0.55 0.85) (pt -0.75 0.85)
+     )
+    )
+   )
+   (leg A1 (pt -0.2 0.4) (padstack 0))
+   (leg A2 (pt 0.2 0.4) (padstack 0))
+   (leg B1 (pt -0.2 0) (padstack 0))
+   (leg B2 (pt 0.2 0) (padstack 0))
+   (leg C1 (pt -0.2 -0.4) (padstack 0))
+   (leg C2 (pt 0.2 -0.4) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (round 0.2))
+   )
+   (model "TPS61046YFFR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

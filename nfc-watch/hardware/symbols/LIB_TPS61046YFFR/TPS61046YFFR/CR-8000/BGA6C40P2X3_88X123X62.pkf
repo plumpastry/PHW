@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "BGA6C40P2X3_88X123X62"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "BGA6C40P2X3_88X123X62")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ISM330DHCXTR
+D IMUs - Inertial Measurement Units VFLGA2.5X3X.86 14L P.5 L.475X.25
+K
+F https://www.st.com/resource/en/datasheet/ism330dhcx.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=212134-0002
+PartCategory=Connector
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2021-02-04 09:42:27
+Downloaded=2025-05-30 15:54:57
+3D=Y

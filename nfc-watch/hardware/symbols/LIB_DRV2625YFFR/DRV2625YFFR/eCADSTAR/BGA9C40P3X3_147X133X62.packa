@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "DRV2625YFFR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-16-11:30:17)
+    (mountForm default
+        (footprintRef "BGA9C40P3X3_147X133X62")
+        (spec "System")
+    )
+)

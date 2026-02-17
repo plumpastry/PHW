@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XRCGB27M120F3M13R0'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "XRCGB27M120F3M13R0" (!) = "", "XRCGB", "Other", "81-XRCGB27M120F3M13R", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/XRCGB27M120F3M13R0?qs=rrS6PyfT74fcMlJ2scmJMQ%3D%3D", "Crystals 2.0x1.6x0.65mm 27.12MHz Crystal +/-30ppm Initial tolerance", "https://www.murata.com/products/productdata/8801063141406/SPEC-XRCGB27M120F3M13R0.pdf", "0.7 mm"
+END_PART
+
+END.

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model XRCGB27M120F3M13R0
+#/1685859/1373859/2.50/4/2/Crystal or Oscillator
+DEF XRCGB27M120F3M13R0 Y 0 30 Y Y 1 F N
+F0 "Y" 1150 300 50 H V L CNN
+F1 "XRCGB27M120F3M13R0" 1150 200 50 H V L CNN
+F2 "XRCGB" 1150 100 50 H I L CNN
+F3 "https://www.murata.com/products/productdata/8801063141406/SPEC-XRCGB27M120F3M13R0.pdf" 1150 0 50 H I L CNN
+F4 "Crystals 2.0x1.6x0.65mm 27.12MHz Crystal +/-30ppm Initial tolerance" 1150 -100 50 H I L CNN "Description"
+F5 "0.7" 1150 -200 50 H I L CNN "Height"
+F6 "81-XRCGB27M120F3M13R" 1150 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/XRCGB27M120F3M13R0?qs=rrS6PyfT74fcMlJ2scmJMQ%3D%3D" 1150 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Murata Electronics" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F9 "XRCGB27M120F3M13R0" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X XTAL_1 1 0 -100 200 R 50 50 0 0 P
+X NC_1 2 1300 -100 200 L 50 50 0 0 P
+X XTAL_2 3 1300 0 200 L 50 50 0 0 P
+X NC_2 4 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1100 100 1100 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NPM1100_QDAA_R'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Nordic Semiconductor", "NPM1100-QDAA-R" (!) = "", "QFN50P400X400X90-25N-D", "Quad Flat No-Lead", "949-NPM1100-QDAA-R", "https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/NPM1100-QDAA-R?qs=amGC7iS6iy9SVRzpFaPmEA%3D%3D", "Battery Management Extremely compact Power Management IC (PMIC) QFN", "", "0.9 mm"
+END_PART
+
+END.

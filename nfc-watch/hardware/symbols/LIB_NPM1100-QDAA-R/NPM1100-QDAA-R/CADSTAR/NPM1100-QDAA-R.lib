@@ -1,0 +1,16 @@
+.NPM1100-QDAA-R :1 ;Battery Management Extremely compact Power Management IC (PMIC) QFN
+QFN50P400X400X90-25N-D
+*STM IC
+*NGS
+*PLB 1="VOUTB" 2="VOUTBSET1" 3="VOUTBSET2" 4="NC_1" 5="ISET" 6="SHPACT" 7="MODE" 8="CHG" 9="VTERMSET" 10="ERR" 11="SHPHLD" 12="ICHG" 13="NC_2" 14="NTC" 15="VBAT" 16="VSYS" 17="VBUS" 18="NC_3" 19="D-" 20="D+" 21="DEC" 22="SW" 23="PVSS" 24="NC_4" 25="EP"
+*MXP 25
+*DFN NPM1100-QDAA-R
+~!Mouser Part Number (949-NPM1100-QDAA-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nordic-Semiconductor/NPM1100-QDAA-R?qs=amGC7iS6iy9SVRzpFaPmEA%3D%3D)
+~!Manufacturer_Name (Nordic Semiconductor)
+~!Manufacturer_Part_Number (NPM1100-QDAA-R)
+~!Link Datasheet (-)
+~!Height (0.9mm)
+~!3D_Model (NPM1100-QDAA-R)
+NPM1100-QDAA-R
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 

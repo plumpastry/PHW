@@ -1,0 +1,190 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "ISM330DHCXTR"
+   (description "IMUs - Inertial Measurement Units VFLGA2.5X3X.86 14L P.5 L.475X.25")
+   (family "ANA")
+   (package "LSM6DS3USTR")
+   (attribute "Datasheet Link" "https://www.st.com/resource/en/datasheet/ism330dhcx.pdf")
+   (attribute "Geometry.Height" "0.86mm")
+   (attribute "Mouser Part Number" "511-ISM330DHCXTR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ISM330DHCXTR?qs=%252B6g0mu59x7Jv2Xps2dM6Xw%3D%3D")
+   (attribute "Manufacturer_Name" "STMicroelectronics")
+   (attribute "Manufacturer_Part_Number" "ISM330DHCXTR")
+   (gate
+    (symbol "ISM330DHCXTR")
+    (pin "SDO/SA0" 1 PS)
+    (pin "SDX" 2 PS)
+    (pin "SCX" 3 PS)
+    (pin "INT1" 4 PS)
+    (pin "VDDIO" 5 PS)
+    (pin "GND_1" 6 PS)
+    (pin "GND_2" 7 PS)
+    (pin "VDD" 8 PS)
+    (pin "INT2" 9 PS)
+    (pin "OCS_AUX" 10 PS)
+    (pin "SDO_AUX" 11 PS)
+    (pin "CS" 12 PS)
+    (pin "SCL" 13 PS)
+    (pin "SDA" 14 PS)
+   )
+  )
+  (symbol "ISM330DHCXTR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 400) (pt 1200 400) (pt 1200 -800) (pt 200 -800) (pt 200 400) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 -1000) (rot 90) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1400 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 800 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 600 600) (rot 90) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LSM6DS3USTR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.5 1.25)
+      (pt 1.5 1.25)
+      (pt 1.5 -1.25)
+      (pt -1.5 -1.25)
+      (pt -1.5 1.25))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.918 2.25)
+      (pt 2.5 2.25)
+      (pt 2.5 -2.25)
+      (pt -2.918 -2.25)
+      (pt -2.918 2.25))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -2.2 0.85)
+      (arc (pt -2.200 0.850) (pt -2.300 0.650) (pt -2.100 0.850) (start 180.0) (sweep 90.0))
+      (pt -2.2 0.65)
+      (arc (pt -2.200 0.650) (pt -2.300 0.650) (pt -2.100 0.850) (start 180.0) (sweep -90.0))
+      (pt -2.2 0.85))))
+   (leg 1 (pt -1.163 0.750) (padstack 0))
+   (leg 2 (pt -1.163 0.250) (padstack 0))
+   (leg 3 (pt -1.163 -0.250) (padstack 0))
+   (leg 4 (pt -1.163 -0.750) (padstack 0))
+   (leg 5 (pt -0.500 -0.912) (padstack 5))
+   (leg 6 (pt 0.000 -0.912) (padstack 6))
+   (leg 7 (pt 0.500 -0.912) (padstack 7))
+   (leg 8 (pt 1.163 -0.750) (padstack 0))
+   (leg 9 (pt 1.163 -0.250) (padstack 0))
+   (leg 10 (pt 1.163 0.250) (padstack 0))
+   (leg 11 (pt 1.163 0.750) (padstack 0))
+   (leg 12 (pt 0.500 0.912) (padstack 12))
+   (leg 13 (pt 0.000 0.912) (padstack 13))
+   (leg 14 (pt -0.500 0.912) (padstack 14))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 0.000))
+   )
+   (padstack 5
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 90.000))
+   )
+   (padstack 6
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 90.000))
+   )
+   (padstack 7
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 90.000))
+   )
+   (padstack 12
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 90.000))
+   )
+   (padstack 13
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 90.000))
+   )
+   (padstack 14
+    (plated false)
+    (pad (layer TCOP) (rectf 0.250 0.475 0 0 90.000))
+   )
+   (model "ISM330DHCXTR.stp"
+    (euler -90 0 0)
+    (offset 0 0 0.8600000143051147)
+   )
+  )
+ )
+)

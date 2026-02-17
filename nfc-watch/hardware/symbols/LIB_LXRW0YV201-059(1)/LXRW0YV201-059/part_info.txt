@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=LXRW0YV201-059
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=4
+Version=1.2
+Released=2021-05-26 11:11:24
+Downloaded=2025-06-02 03:00:09
+3D=Y

@@ -1,0 +1,106 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "XRCGB27M120F3M13R0"
+   (description "Crystals 2.0x1.6x0.65mm 27.12MHz Crystal +/-30ppm Initial tolerance")
+   (family "OSC")
+   (package "XRCGB")
+   (attribute "Datasheet Link" "https://www.murata.com/products/productdata/8801063141406/SPEC-XRCGB27M120F3M13R0.pdf")
+   (attribute "Geometry.Height" "0.7mm")
+   (attribute "Mouser Part Number" "81-XRCGB27M120F3M13R")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/XRCGB27M120F3M13R0?qs=rrS6PyfT74fcMlJ2scmJMQ%3D%3D")
+   (attribute "Manufacturer_Name" "Murata Electronics")
+   (attribute "Manufacturer_Part_Number" "XRCGB27M120F3M13R0")
+   (gate
+    (symbol "XRCGB27M120F3M13R0")
+    (pin "XTAL_1" 1 PS)
+    (pin "NC_1" 2 PS)
+    (pin "XTAL_2" 3 PS)
+    (pin "NC_2" 4 PS)
+   )
+  )
+  (symbol "XRCGB27M120F3M13R0"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1100 100) (pt 1100 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1300 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "XRCGB"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 -0.8)
+      (pt 1 -0.8)
+      (pt 1 0.8)
+      (pt -1 0.8)
+      (pt -1 -0.8))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.05 1.85)
+      (pt 2.05 1.85)
+      (pt 2.05 -1.85)
+      (pt -2.05 -1.85)
+      (pt -2.05 1.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.6 -0.5)
+      (arc (pt -1.600 -0.500) (pt -1.600 -0.550) (pt -1.500 -0.450) (start 180.0) (sweep 180.0))
+      (pt -1.5 -0.5)
+      (arc (pt -1.500 -0.500) (pt -1.600 -0.550) (pt -1.500 -0.450) (start 180.0) (sweep .0))
+      (pt -1.6 -0.5))))
+   (leg 1 (pt -0.675 -0.500) (padstack 0))
+   (leg 2 (pt 0.675 -0.500) (padstack 0))
+   (leg 3 (pt 0.675 0.500) (padstack 0))
+   (leg 4 (pt -0.675 0.500) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.700 0.750 0 0 0.000))
+   )
+   (model "XRCGB27M120F3M13R0.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

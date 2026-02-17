@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ST25R3916B-BWLT
+D NFC/RFID Tags & Transponders
+K
+F https://www.st.com/resource/en/datasheet/st25r3916b.pdf
+$ENDCMP
+#
+#End Doc Library

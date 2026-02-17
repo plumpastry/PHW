@@ -1,0 +1,17 @@
+.DRV2625YFFR :1 ;Motor / Motion / Ignition Controllers & Drivers Advanced ERM & LRA Haptics Driver with Smart Loop and Embedded Effects Library 9-DSBGA -40 to 85
+BGA9C40P3X3_147X133X62
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=B1 5=B2 6=B3 7=C1 8=C2 9=C3
+*PLB 1="TRIG/ INTZ" 2="REG" 3="OUT+" 4="SDA" 5="NRST" 6="GND" 7="SCL" 8="VDD" 9="OUT-"
+*MXP 9
+*DFN DRV2625YFFR
+~!Mouser Part Number (595-DRV2625YFFR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/DRV2625YFFR?qs=n%252BTO0c4TDSZ6D6FykI88sg%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (DRV2625YFFR)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/DRV2625YFFR.pdf)
+~!Height (0.625mm)
+~!3D_Model (DRV2625YFFR)
+DRV2625YFFR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 

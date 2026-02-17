@@ -1,0 +1,16 @@
+.LXRW0YV201-059 :1 ;Trimmer / Variable Capacitors 0.6x0.6mm 200pF@0V
+LXRW0YV201059
+*STM C
+*NGS
+*PLB 1="GND" 2="VT" 3="PORT1 " 4="PORT2"
+*MXP 4
+*DFN LXRW0YV201-059
+~!Mouser Part Number (81-LXRW0YV201-059)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/LXRW0YV201-059?qs=7MVldsJ5UaykDEbFb2%2F3TA%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (LXRW0YV201-059)
+~!Link Datasheet (-)
+~!Height (0.31mm)
+~!3D_Model (LXRW0YV201-059)
+LXRW0YV201-059
+1.1!U 2.1!U 3.1!U 4.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XRCGB27M120F3M13R0
+D Crystals 2.0x1.6x0.65mm 27.12MHz Crystal +/-30ppm Initial tolerance
+K
+F https://www.murata.com/products/productdata/8801063141406/SPEC-XRCGB27M120F3M13R0.pdf
+$ENDCMP
+#
+#End Doc Library

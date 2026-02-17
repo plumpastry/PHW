@@ -1,0 +1,17 @@
+.ST25R3916B-BWLT :1 ;NFC/RFID Tags & Transponders
+BGA36C50P6X6_322X321X63
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=A6 7=B1 8=B2 9=B3 10=B4 11=B5 12=B6 13=C1 14=C2 15=C3 16=C4 17=C5 18=C6 19=D1 20=D2 21=D3 22=D4 23=D5 24=D6 25=E1 26=E2 27=E3 28=E4 29=E5 30=E6 31=F1 32=F2 33=F3 34=F4 35=F5 36=F6
+*PLB 1="TAD2" 2="AGDC" 3="GND_A_1" 4="IRQ" 5="BSS" 6="VDD_IO" 7="RFI1" 8="RFI2" 9="GND_A_2" 10="GND_A_3" 11="MISO" 12="TAD1" 13="VSS_1" 14="VSS_2" 15="VSS_3" 16="MCU_CLK" 17="VDD_D" 18="XTO" 19="AAT_B" 20="I2C_EN" 21="SCLK" 22="MOSI" 23="GND_D" 24="XTI" 25="AAT_A" 26="EXT_LM" 27="VDD_DR" 28="VDD_A" 29="VDD_TX" 30="VDD" 31="GND_DR2" 32="RFO2" 33="RFO1" 34="GND_DR1" 35="VDD_AM" 36="VDD_RF"
+*MXP 36
+*DFN ST25R3916B-BWLT
+~!Mouser Part Number (511-ST25R3916B-BWLT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3916B-BWLT?qs=vvQtp7zwQdNFrlaiWikiwQ%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ST25R3916B-BWLT)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/st25r3916b.pdf)
+~!Height (0.63mm)
+~!3D_Model (ST25R3916B-BWLT)
+ST25R3916B-BWLT
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 

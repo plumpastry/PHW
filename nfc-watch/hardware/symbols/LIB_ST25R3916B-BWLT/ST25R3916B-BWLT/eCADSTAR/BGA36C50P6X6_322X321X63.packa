@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ST25R3916B-BWLT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-19-13:48:26)
+    (mountForm default
+        (footprintRef "BGA36C50P6X6_322X321X63")
+        (spec "System")
+    )
+)

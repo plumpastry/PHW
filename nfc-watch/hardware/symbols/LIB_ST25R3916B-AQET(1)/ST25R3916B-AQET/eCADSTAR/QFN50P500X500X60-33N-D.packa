@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ST25R3916B-AQET"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-09-25-15:25:50)
+    (mountForm default
+        (footprintRef "QFN50P500X500X60-33N-D")
+        (spec "System")
+    )
+)

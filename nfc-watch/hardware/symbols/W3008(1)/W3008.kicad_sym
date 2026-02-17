@@ -1,0 +1,64 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "W3008" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "ANT" (id 0) (at -2.54215 5.71984 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "W3008" (id 1) (at -2.54453 -8.90586 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "W3008:ANTENNA_W3008" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer recommendations" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "PulseLarsen Antennas" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "W3008_0_0"
+      (polyline
+        (pts (xy -2.54 5.08) (xy 0.0 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 2.54) (xy 2.54 5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 0.0) (xy 5.08 0.0)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.54 5.08) (xy 0.0 5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 5.08) (xy 2.54 5.08)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.0 5.08) (xy 0.0 2.54)) (stroke (width 0.1524))
+      )
+      (pin passive line (at 5.08 -2.54 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -2.54 90.0) (length 5.08)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "FEED"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 5.08 -2.54 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "G2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)

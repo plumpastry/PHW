@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LSM6DS3USTR"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LSM6DS3USTR")
+        (spec "default")
+    )
+)

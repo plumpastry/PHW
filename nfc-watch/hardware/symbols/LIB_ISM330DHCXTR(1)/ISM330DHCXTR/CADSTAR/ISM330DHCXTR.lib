@@ -1,0 +1,16 @@
+.ISM330DHCXTR :1 ;IMUs - Inertial Measurement Units VFLGA2.5X3X.86 14L P.5 L.475X.25
+LSM6DS3USTR
+*STM IC
+*NGS
+*PLB 1="SDO/SA0" 2="SDX" 3="SCX" 4="INT1" 5="VDDIO" 6="GND_1" 7="GND_2" 8="VDD" 9="INT2" 10="OCS_AUX" 11="SDO_AUX" 12="CS" 13="SCL" 14="SDA"
+*MXP 14
+*DFN ISM330DHCXTR
+~!Mouser Part Number (511-ISM330DHCXTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ISM330DHCXTR?qs=%252B6g0mu59x7Jv2Xps2dM6Xw%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ISM330DHCXTR)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/ism330dhcx.pdf)
+~!Height (0.86mm)
+~!3D_Model (ISM330DHCXTR)
+ISM330DHCXTR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 

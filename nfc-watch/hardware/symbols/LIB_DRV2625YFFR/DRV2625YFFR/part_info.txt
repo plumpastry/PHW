@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=DRV2625YFFR
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=9
+Version=6.1
+Released=2016-06-20 10:19:21
+Downloaded=2025-05-30 15:19:44
+3D=Y

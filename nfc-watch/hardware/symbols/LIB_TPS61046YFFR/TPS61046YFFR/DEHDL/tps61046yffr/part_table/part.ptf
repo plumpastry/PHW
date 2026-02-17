@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS61046YFFR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS61046YFFR" (!) = "", "BGA6C40P2X3_88X123X62", "BGA", "595-TPS61046YFFR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61046YFFR?qs=MiqG6Kq1qKNwq3TLqYBDaw%3D%3D", "28-V Output Voltage Boost Converter in WCSP Package", "http://www.ti.com/lit/gpn/tps61046", "0.625 mm"
+END_PART
+
+END.

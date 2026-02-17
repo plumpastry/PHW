@@ -1,0 +1,16 @@
+newmtl ec05e1220202_color_1
+Ka 1 0 1
+Ks 1 0 1
+Kd 1 0 1
+newmtl ec05e1220202_color_2
+Ka 1 0.5019608 0
+Ks 1 0.5019608 0
+Kd 1 0.5019608 0
+newmtl ec05e1220202_color_3
+Ka 1 1 1
+Ks 1 1 1
+Kd 1 1 1
+newmtl ec05e1220202_color_4
+Ka 0 0 1
+Ks 0 0 1
+Kd 0 0 1

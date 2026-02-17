@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ISM330DHCXTR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ISM330DHCXTR" (!) = "", "LSM6DS3USTR", "Other", "511-ISM330DHCXTR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ISM330DHCXTR?qs=%252B6g0mu59x7Jv2Xps2dM6Xw%3D%3D", "IMUs - Inertial Measurement Units VFLGA2.5X3X.86 14L P.5 L.475X.25", "https://www.st.com/resource/en/datasheet/ism330dhcx.pdf", "0.86 mm"
+END_PART
+
+END.

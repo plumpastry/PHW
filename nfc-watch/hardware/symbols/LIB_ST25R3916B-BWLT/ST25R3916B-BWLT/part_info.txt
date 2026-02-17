@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST25R3916B-BWLT
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=36
+Version=1.1
+Released=2022-12-19 13:48:26
+Downloaded=2025-06-02 01:16:08
+3D=Y

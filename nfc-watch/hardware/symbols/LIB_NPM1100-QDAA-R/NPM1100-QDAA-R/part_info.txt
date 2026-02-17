@@ -1,0 +1,9 @@
+Manufacturer=Nordic Semiconductor
+PartNumber=NPM1100-QDAA-R
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2023-03-23 11:47:11
+Downloaded=2025-05-30 17:59:14
+3D=Y

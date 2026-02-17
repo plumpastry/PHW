@@ -1,0 +1,17 @@
+.TPS61046YFFR :1 ;28-V Output Voltage Boost Converter in WCSP Package
+BGA6C40P2X3_88X123X62
+*STM PS
+*NGS
+*PNM 1=A1 2=A2 3=B1 4=B2 5=C1 6=C2
+*PLB 1="VIN" 2="GND" 3="FB" 4="SW" 5="EN" 6="VOUT"
+*MXP 6
+*DFN TPS61046YFFR
+~!Mouser Part Number (595-TPS61046YFFR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS61046YFFR?qs=MiqG6Kq1qKNwq3TLqYBDaw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS61046YFFR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps61046)
+~!Height (0.625mm)
+~!3D_Model (TPS61046YFFR)
+TPS61046YFFR
+1.1!P 2.1!G 3.1!I 4.1!U 5.1!I 6.1!P 

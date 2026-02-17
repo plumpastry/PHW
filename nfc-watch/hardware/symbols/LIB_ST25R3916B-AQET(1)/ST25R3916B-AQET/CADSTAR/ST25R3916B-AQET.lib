@@ -1,0 +1,16 @@
+.ST25R3916B-AQET :1 ;RFID Reader/Transponder IC 13.56MHz FeliCa, ISO 14443, ISO 15693, MIFARE, NFC I2C, SPI 2.6V ~ 5.5V 36-UFBGA, WLCSP
+QFN50P500X500X60-33N-D
+*STM IC
+*NGS
+*PLB 1="VDD_IO" 2="TAD2" 3="VDD_D" 4="XTO" 5="XTI" 6="GND_D" 7="VDD_A" 8="VDD" 9="VDD_RF" 10="VDD_TX" 11="VDD_AM" 12="GND_DR1" 13="RFO1" 14="VDD_DR" 15="RFO2" 16="GND_DR2" 17="EXT_LM" 18="AAT_A" 19="AAT_B" 20="I2C_EN" 21="VSS" 22="RFI1" 23="RFI2" 24="AGDC" 25="TAD1" 26="GND_A" 27="IRQ" 28="MCU_CLK" 29="BSS" 30="SCLK/SCL" 31="MOSI" 32="MISO/SDA" 33="GND"
+*MXP 33
+*DFN ST25R3916B-AQET
+~!Mouser Part Number (511-ST25R3916B-AQET)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3916B-AQET?qs=rQFj71Wb1eX4vi6O4DqiQQ%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ST25R3916B-AQET)
+~!Link Datasheet (https://www.st.com/en/nfc/st25r3916b.html)
+~!Height (0.6mm)
+~!3D_Model (ST25R3916B-AQET)
+ST25R3916B-AQET
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 

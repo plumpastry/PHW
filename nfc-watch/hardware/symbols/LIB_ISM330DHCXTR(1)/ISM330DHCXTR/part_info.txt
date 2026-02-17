@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ISM330DHCXTR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=14
+Version=1.2
+Released=2019-10-24 12:02:39
+Downloaded=2025-06-01 08:10:45
+3D=Y

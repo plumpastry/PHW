@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ST25R3916B_AQET'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ST25R3916B-AQET" (!) = "", "QFN50P500X500X60-33N-D", "Quad Flat No-Lead", "511-ST25R3916B-AQET", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST25R3916B-AQET?qs=rQFj71Wb1eX4vi6O4DqiQQ%3D%3D", "RFID Reader/Transponder IC 13.56MHz FeliCa, ISO 14443, ISO 15693, MIFARE, NFC I2C, SPI 2.6V ~ 5.5V 36-UFBGA, WLCSP", "https://www.st.com/en/nfc/st25r3916b.html", "0.6 mm"
+END_PART
+
+END.
