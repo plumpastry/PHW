@@ -191,6 +191,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "drv2625"
+version = "0.1.0"
+dependencies = [
+ "embedded-hal 1.0.0",
+]
+
+[[package]]
 name = "embassy-embedded-hal"
 version = "0.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -415,6 +422,7 @@ dependencies = [
  "cortex-m-rt",
  "defmt",
  "defmt-rtt",
+ "drv2625",
  "embassy-executor",
  "embassy-nrf",
  "embassy-time",
