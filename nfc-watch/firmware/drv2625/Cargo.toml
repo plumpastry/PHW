@@ -2,6 +2,11 @@
 name = "drv2625"
 version = "0.1.0"
 edition = "2024"
+license = "MIT OR Apache-2.0"
+description = "A simple DRV2625 driver crate"
+readme = "readme.md"
+keywords = ["no_std"]
+repository = "https://github.com/plumpastry/PHW"
 
 [dependencies]
 embedded-hal = "1.0.0"
@@ -12,3 +17,4 @@ path = "src/lib.rs"
 test = false
 doctest = false
 bench = false
+

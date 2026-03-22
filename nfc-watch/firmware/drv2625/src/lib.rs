@@ -1,6 +1,6 @@
 #![no_std]
 
-use embedded_hal::i2c::{self, I2c};
+use embedded_hal::i2c::I2c;
 
 pub struct Drv2625<I2C> {
     i2c: I2C,
